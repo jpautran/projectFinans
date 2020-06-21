@@ -6,9 +6,8 @@
 <img src ="img/home.png" align="center">
 </h1>
 
-<h1>
-Responsive
-<img src ="img/mobile.png" align="center" width="200">
+<h1 align="center">
+<img src ="img/mobile.png" width="200">
 </h1>
 
 <h1>
