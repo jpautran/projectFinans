@@ -3,16 +3,14 @@
 </h1>
 
 <h1>
-<img src ="img/home.png" align="center">
-</h1>
-
-<h1 align="center">
-<img src ="img/mobile.png" width="200">
-</h1>
-
-<h1>
 <img src="img/webpage.gif" align="center">
 </h1>
+
+
+<h1 align="center">
+<img src ="img/mobileHome.png" width="200">
+</h1>
+
 
 # 📝 About
 
